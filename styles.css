@@ -1,0 +1,8 @@
+.canvas-spoiler canvas {
+  filter: blur(64px) saturate(0.25);
+  will-change: filter;
+}
+
+.canvas-spoiler:hover canvas {
+  filter: none;
+}

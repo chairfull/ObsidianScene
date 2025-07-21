@@ -1,0 +1,11 @@
+{
+	"id": "scene",
+	"name": "Scenes",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Visual Novel style scene rendering.",
+	"author": "chairfull",
+	"authorUrl": "https://.md",
+	"fundingUrl": "https://.md/pricing",
+	"isDesktopOnly": false
+}
